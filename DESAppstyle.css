@@ -1,0 +1,12 @@
+.nav{
+    top: 1000px;
+    text-align: center;
+    position: relative;
+}
+.nav a{
+    text-decoration: none;
+    margin: 15px 15px;
+    border: 1px solid orange;
+    border-radius: 100px;
+    background-color: orange;
+}
